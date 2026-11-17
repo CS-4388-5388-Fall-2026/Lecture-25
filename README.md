@@ -4,7 +4,7 @@ The latest commit will be the finished code at the end of class.  If you are int
 
 ## Prerequisites
 
-To work with this code, you will first need to install [Node.js 22.18.0 LTS](https://nodejs.org/en/) (or newer) and [Visual Studio Code](https://code.visualstudio.com/). 
+To work with this code, you will first need to install [Node.js 24.19.0 LTS](https://nodejs.org/en/) (or newer) and [Visual Studio Code](https://code.visualstudio.com/). 
 
 I also recommend you install the following useful VS Code extensions:
 
@@ -41,4 +41,4 @@ The dynamic shaders were partially inspired by examples from [webgl-shaders.com]
 
 ## License
 
-Material for [CS 4388/CS 5388 Fall 2025](https://github.com/CS-4388-5388-Fall-2025/Syllabus) taught by [Isayas Berhe Adhanom](https://isayasadhanom.me/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). This course material has been adopted from course materials originally developed by [Evan Suma Rosenberg](https://cse.umn.edu/cs/evan-suma-rosenberg).
+Material for [CS 4388/CS 5388 Fall 2026](https://github.com/CS-4388-5388-Fall-2026/Syllabus) taught by [Isayas Berhe Adhanom](https://isayasadhanom.me/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). This course material has been adopted from course materials originally developed by [Evan Suma Rosenberg](https://cse.umn.edu/cs/evan-suma-rosenberg).

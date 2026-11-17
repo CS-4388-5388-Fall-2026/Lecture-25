@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Lecture 25, CS 4388/ CS 5388, Fall 2025",
   "author": "Isayas Berhe Adhanom <isayas@txstate.edu>",
+  "author": "Isayas Berhe Adhanom <isayas@txstate.edu>",
   "license": "CC BY-NC-SA 4.0",
   "type": "module",
   "devDependencies": {
